@@ -4,7 +4,7 @@ echo "$Name $Surname"
 echo "$Name"
 echo "$Surname"
 
-BASH Story One:Biocomputing tasks
+#BASH Story One:Biocomputing tasks
 mkdir RuthObaado
 mkdir biocomputing && cd biocomputing
 wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.fna && wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gbk && wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.gbk
@@ -19,7 +19,7 @@ ls && ls ../biocomputing
 exit
 
 
-BASH Story Two:Linux_2_BCP
+#BASH Story Two:Linux_2_BCP
 #Install figlet command
 sudo apt install figlet toilet
 figlet -c Oluwaseun Obaado
